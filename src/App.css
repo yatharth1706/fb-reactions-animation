@@ -10,4 +10,15 @@
   border-radius: 30px;
   box-shadow: 5px 5px 100px rgb(0,10,10);
   width: 150px;
+  display: "flex";
+  justify-content : "center";
+}
+
+.icon-wrapper{
+  display: flex;
+  box-shadow: 5px 5px 100px rgb(0,10,10);
+  padding: 10px;
+  border-radius: 50px;
+  width: 300px;
+  margin-top: -120px;
 }
