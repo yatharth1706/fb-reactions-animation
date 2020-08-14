@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
@@ -11,14 +12,24 @@
   box-shadow: 5px 5px 100px rgb(0,10,10);
   width: 150px;
   display: "flex";
+  border: none;
+  padding: 8px;
   justify-content : "center";
 }
 
 .icon-wrapper{
   display: flex;
-  box-shadow: 5px 5px 100px rgb(0,10,10);
+  box-shadow: 5px 5px 50px rgba(0,10,10,0.2);
   padding: 10px;
   border-radius: 50px;
   width: 300px;
-  margin-top: -120px;
+  position: absolute;
+  top: 230px;
+  left: 540px;
+
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
 }
