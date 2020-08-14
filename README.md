@@ -1,3 +1,13 @@
+<h2 align="center">Facebook Reaction Animation</h2>
+
+![Project image](https://raw.githubusercontent.com/yatharth1706/fb-reactions-animation/master/src/assets/projectImage.png)
+
+## Tech Stack
+
+* React
+* Framer Motion
+* Bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
